@@ -25,6 +25,7 @@ expense_tracker/
   - file_service.py      # Handles JSON read/write
   - expense_service.py   # Adds expenses, converts currency, updates totals
   - currency_service.py  # Fetches live currency rates, shows table
+- .gitignore
 ```
 # Expense Tracker - How It Works
 
