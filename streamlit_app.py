@@ -5,7 +5,7 @@ from services.currency_service import get_pkr_rate, view_all_rates
 from services.file_service import read_json, write_json
 from logger_config import logger
 
-st.set_page_config(page_title="Expense Tracker Pro", page_icon="💰")
+st.set_page_config(page_title="Expense Tracker ", page_icon="💰")
 
 def init_streamlit_files():
     """Ensure data files exist for the cloud environment."""
@@ -15,7 +15,7 @@ def init_streamlit_files():
 
 init_streamlit_files()
 
-st.title("💰 Expense Tracker Pro")
+st.title("💰 Expense Tracker ")
 st.markdown("Track your expenses in multiple currencies with live PKR conversion.")
 
 # Sidebar Navigation
