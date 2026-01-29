@@ -1,5 +1,9 @@
 # EXPENSE TRACKER 
 
+🚀 Live Demo
+Check out the web app here: https://expensetracker-wtp4ejmpjupbeij7glvmet.streamlit.app/
+
+
 ## What the Project Is
 Expense Tracker  is a Python app to track expenses in multiple currencies, convert them to PKR, and maintain persistent records. It is modular, maintainable, and suitable for personal or business use.
 
