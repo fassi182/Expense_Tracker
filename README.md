@@ -16,6 +16,8 @@ Manually tracking foreign currency expenses is error-prone. This app:
 expense_tracker/
 |
 - app.py                 # Main entry point
+- streamlit_App.txt
+- requirements.txt
 - logger_config.py       # Logging setup
 - README.md              # Documentation file
 - data/
